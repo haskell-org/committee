@@ -1,7 +1,7 @@
 ---
 author: Jasper Van der Jeugt
-date-accepted: -
-...
+date-accepted: N/A
+---
 
 # Haskell.org proposals
 
