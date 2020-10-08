@@ -1,6 +1,7 @@
 ---
 author: Jasper Van der Jeugt
 date-accepted: N/A
+discussion: https://github.com/haskell-org/committee/pull/1
 ---
 
 # Haskell.org proposals
