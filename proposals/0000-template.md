@@ -1,6 +1,6 @@
 ---
 author: Your Name Here
-date-accepted: -
+date-accepted: N/A
 discussion: Link to GitHub discussion
 ...
 
