@@ -20,6 +20,9 @@ The proposed process is fairly light:
 2.  Proposals must have an author set who is responsible for driving the
     discussion.  If the author is not a member of the Haskell.org committee,
     we may additionally appoint a shepherd from the committee to help with this.
+    It is the responsibility of the author and the shepherd to notify any
+    communities that may be interested in the proposal, so we can gather
+    community feedback.
 
 3.  The proposal must have a link to the PR discussion, so readers can easily
     find the full discussion once the PR is merged.
