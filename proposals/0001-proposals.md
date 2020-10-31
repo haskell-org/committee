@@ -11,6 +11,24 @@ would like to adopt a proposal process similar to the [GHC Steering Committee].
 
 [GHC Steering Committee]: https://github.com/ghc-proposals/ghc-proposals
 
+## Scope
+
+The proposal process applies for all areas that are under Haskell.org's purview.
+More information about what that includes can be found on the
+[Haskell.org committee page].
+
+[Haskell.org committee page]: https://www.haskell.org/haskell-org-committee/
+
+We don't want to introduce too much administrative overhead, so small changes,
+fixes and maintenance can be made to the website and infrastructure without a
+proposal.  However, we will use proposals for anything else:
+
+ -  major and/or controversial changes
+ -  setting policy for anything Haskell.org is responsible
+ -  any other important decisions
+
+## Process
+
 The proposed process is fairly light:
 
 1.  New proposals are created as pull requests with a single file, following
