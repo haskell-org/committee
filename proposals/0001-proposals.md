@@ -1,6 +1,6 @@
 ---
 author: Jasper Van der Jeugt
-date-accepted: N/A
+date-accepted: 2020-11-15
 discussion: https://github.com/haskell-org/committee/pull/1
 ---
 
@@ -52,7 +52,24 @@ The proposed process is fairly light:
 
      -  If the proposal is accepted, `date-accepted` is set and the proposal is
         merged into the repository.  A summary with a link to the full PR
-        discussion is sent out to `community@haskell.org`.
+        discussion is sent out to `community@haskell.org`.  The proposal should
+        be updated with the votes and possibly arguments against the proposal.
 
      -  If the proposal is not accepted, the proposal is also merged for
         posterity, but a section is ammended to explain why it was rejected.
+
+## Resolution
+
+This proposal was accepted by a 6/7 majority on 15 November 2020:
+
+ -  Alexandre Garcia de Oliveira
+ -  Emily Pillmore
+ -  George Wilson
+ -  Jasper Van der Jeugt
+ -  Rebecca Skinner
+ -  Tikhon Jelvis
+
+It was discussed on the `community@haskell.org` mailing list here:
+
+ -  <https://mail.haskell.org/pipermail/haskell-community/2020-October/000393.html>
+ -  <https://mail.haskell.org/pipermail/haskell-community/2020-November/000398.html>
