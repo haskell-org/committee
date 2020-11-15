@@ -32,7 +32,7 @@ proposal.  However, we will use proposals for anything else:
 The proposed process is fairly light:
 
 1.  New proposals are created as pull requests with a single file, following
-    a `proposals/XYZW-some-title.extention` naming scheme.  A template is
+    a `proposals/XYZW-some-title.extension` naming scheme.  A template is
     available in `proposals/0000-template.md`.
 
 2.  Proposals must have an author set who is responsible for driving the
