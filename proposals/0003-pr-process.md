@@ -6,17 +6,18 @@ discussion: https://github.com/haskell-org/committee/pull/3
 
 # Accepting Website PRs
 
-To quickly triage and accept PRs to the website, we need a process for reviewing, merging and deploying changes to the website. We adopted a process for this before we had this proposal repo, and the process helped us respond to and merge PRs faster than before. This proposal codifies that process to help make our policies explicit and transparent.
+To quickly triage and accept PRs to the website, we need a process for reviewing, merging and deploying changes. Our goal is to streamline uncontroversial site changes while ensuring that potentially controversial decisions are made transparently and with community input.
 
-Guidelines for accepting PRs to the website:
+PRs fall into two categories:
 
-  1. Purely technical fixes—like fixing the `default.nix` file, broken links, typos and HTML glitches—require one member of the committee to approve.
-  2. Uncontroversial changes that affect the content of the site need two committee members to approve. If the PR was authored by one or more committee members, it should be approved by *other* members unless there are less than two members not involved in the PR.
-  3. Major changes (eg removing whole pages, a visual redesign) and controversial changes (eg removing options from the downloads page) need a majority vote of the whole committee.
-  4. Changes that have known objections from anyone on the committee require a majority vote.
-  
-A PR may be merged once it has the approvals it requires and it has been at least 24 hours since the last substantial change. Time-critical PRs like security fixes may be merged without the 24 hour requirement.
+  1. Potentially controversial: changes to website content that people in the community feel strongly about. This includes changes that endorse or highlight specific projects, tools or organizations as well as anything else that might spark or require community discussion.
 
-Once a PR is merged, it may be deployed to the live site at any time.
+    Potentially controversial changes should be brought to the full committee for a vote, potentially with other steps (like a community-wide request for comments).
 
-A majority vote by the committee may override any of these restrictions.
+  2. Uncontroversial: everything else like technical tweaks, adding new links/resources and bringing website content up to date.
+
+    Uncontroversial changes can be approved by either one committee member who did not work on the PR or two members who worked on a PR together.
+
+Ultimately, whether or not a change is potentially controversial is a judgement call. Committee members should feel free to hold off on approving and merging PRs if they are unsure or want more input and discussion, and PRs should not be merged if any committee member actively disagrees with the change. If two or more committee members can't agree on a PR, the issue should be brought up to the whole committee.
+
+Once a PR is merged, it can be deployed at any time. (Ideally, deploying will be fully automated in the near future.)
