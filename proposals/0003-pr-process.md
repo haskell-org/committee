@@ -6,6 +6,8 @@ discussion: https://github.com/haskell-org/committee/pull/3
 
 # Accepting Website PRs
 
+This section addresses pull requests into the the production branch (`master`). No particular process is enforced for merges into feature branches.
+
 To quickly triage and accept PRs to the website, we need a process for reviewing, merging and deploying changes. Our goal is to streamline uncontroversial site changes while ensuring that potentially controversial decisions are made transparently and with community input.
 
 PRs fall into two categories:
@@ -17,6 +19,8 @@ PRs fall into two categories:
   2. Uncontroversial: everything else like technical tweaks, adding new links/resources and bringing website content up to date.
 
     Uncontroversial changes can be approved by either one committee member who did not work on the PR or two members who worked on a PR together.
+
+    Committee members should exercise good judgement on what constitutes working together for the sake of this process. Pairing on a call or tightly collaborating asynchronously probably count. A committee member having contributed to a feature branch several weeks before it is ready to be merged probably doesn't count.
 
 Ultimately, whether or not a change is potentially controversial is a judgement call. Committee members should feel free to hold off on approving and merging PRs if they are unsure or want more input and discussion, and PRs should not be merged if any committee member actively disagrees with the change. If two or more committee members can't agree on a PR, the issue should be brought up to the whole committee.
 
