@@ -16,7 +16,7 @@ PRs fall into two categories:
 
   2. Uncontroversial: everything else like technical tweaks, adding new links/resources and bringing website content up to date.
 
-     Uncontroversial changes can be approved by either one committee member who did not work on the PR or two members who worked on a PR together.
+     Uncontroversial changes require the approval of two committee members.  Even if one or more committee members worked on the PR their approval still counts towards the total.
 
 Ultimately, whether or not a change is potentially controversial is a judgement call. Committee members should feel free to hold off on approving and merging PRs if they are unsure or want more input and discussion, and PRs should not be merged if any committee member actively disagrees with the change. If two or more committee members can't agree on a PR, the issue should be brought up to the whole committee.
 
