@@ -9,3 +9,7 @@ The Haskell Foundation would like to host this site at `errors.haskell.org`. The
 ## Policy
 
 The Haskell.org committee delegates authority over the `errors.haskell.org` domain name records to the Haskell Foundation for the purpose of hosting a public website related to error messages from Haskell tooling.
+
+## Appendix
+
+Contact details for the Haskell Foundation are on their [contact web page](https://haskell.foundation/contact/).
