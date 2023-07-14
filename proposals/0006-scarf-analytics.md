@@ -1,6 +1,6 @@
 ---
 author: Tikhon Jelvis
-date-accepted: N/A
+date-accepted: 2023-07-14
 discussion: https://github.com/haskell-org/committee/pull/13
 ---
 
